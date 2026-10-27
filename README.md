@@ -1,3 +1,7 @@
+> **Deprecated:** This module is no longer developed. Use the Drupal
+> [AI](https://www.drupal.org/project/ai) module and its OpenAI provider
+> instead.
+
 ## Project Status
 The project is currently in a very early stage of development. While the basic functionality has been implemented, there are still various tasks and enhancements to be addressed.
 
